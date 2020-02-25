@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Start Test]]>
+    </line>
+    <line>
+      <![CDATA[First Name Textbox is found and First Name is Entered]]>
+    </line>
+    <line>
+      <![CDATA[Last Name Textbox is found and Last Name is Entered]]>
+    </line>
+    <line>
+      <![CDATA[Company Textbox is found and Company Name is Entered]]>
+    </line>
+    <line>
+      <![CDATA[Country dropdown is found and Country Name is Selected]]>
+    </line>
+    <line>
+      <![CDATA[Email Textbox is found and Email ID is Entered]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32985" started-at="2020-02-25T02:08:16Z" finished-at="2020-02-25T02:08:49Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="32985" started-at="2020-02-25T02:08:16Z" finished-at="2020-02-25T02:08:49Z">
+      <class name="com.abc.testscript.TC001ValidateFormTestCase">
+        <test-method status="PASS" signature="Beforem()[pri:0, instance:com.abc.testscript.TC001ValidateFormTestCase@5a39699c]" name="Beforem" is-config="true" duration-ms="8551" started-at="2020-02-25T07:38:16Z" finished-at="2020-02-25T07:38:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforem -->
+        <test-method status="PASS" signature="formValidationTest()[pri:0, instance:com.abc.testscript.TC001ValidateFormTestCase@5a39699c]" name="formValidationTest" duration-ms="22689" started-at="2020-02-25T07:38:24Z" finished-at="2020-02-25T07:38:47Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Start Test]]>
+            </line>
+            <line>
+              <![CDATA[First Name Textbox is found and First Name is Entered]]>
+            </line>
+            <line>
+              <![CDATA[Last Name Textbox is found and Last Name is Entered]]>
+            </line>
+            <line>
+              <![CDATA[Company Textbox is found and Company Name is Entered]]>
+            </line>
+            <line>
+              <![CDATA[Country dropdown is found and Country Name is Selected]]>
+            </line>
+            <line>
+              <![CDATA[Email Textbox is found and Email ID is Entered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- formValidationTest -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:com.abc.testscript.TC001ValidateFormTestCase@5a39699c]" name="AfterTest" is-config="true" duration-ms="1712" started-at="2020-02-25T07:38:47Z" finished-at="2020-02-25T07:38:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- com.abc.testscript.TC001ValidateFormTestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
